@@ -1,0 +1,21 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url('./Fonts/BikinCoffee-rgApB.otf');
+}
+
+.changefont{
+  font-family: myFirstFont;
+  font-size: 35px;
+  color: black;
+}
+.footer {
+  font-family: myFirstFont;
+  position:fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 12px;
+  background-color:blue;
+  color: white;
+  text-align: center;
+}
